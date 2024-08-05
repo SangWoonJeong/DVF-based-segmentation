@@ -14,8 +14,8 @@ The models used in our research are:
 ## Repository Structure
 
 - **data/**: exmaple dataset
-- **src/segmentation/**: segmentation model source, package 등
-- **src/augmentation/**: augmentation model source, package 등
+- **src/segmentation/**: segmentation model source, package
+- **src/augmentation/**: augmentation model source, package
 - **augmented data/**: augmented dataset
 - **results/**: Stores the results and performance metrics of the models.
 - **checkpoints/**: saved models.
